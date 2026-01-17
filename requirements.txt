@@ -1,0 +1,13 @@
+streamlit
+yt-dlp
+moviepy
+openai-whisper
+transformers
+torch
+ffmpeg-python
+pyngrok
+
+
+ipynb file link 
+
+https://colab.research.google.com/drive/1JQXUgloZvpcNWOjkNV_DJDT2Noxms85S?usp=sharing
