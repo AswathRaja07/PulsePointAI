@@ -1,5 +1,7 @@
 # 🎬 PulsePoint AI — Reel Generator
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JQXUgloZvpcNWOjkNV_DJDT2Noxms85S?usp=sharing)
+
 **By:** Aswath Raja R  
 **Tagline:** AI tool that converts long videos into short reels using emotional peaks.
 
